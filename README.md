@@ -1,4 +1,4 @@
-#Age-Estimate
+# Age-Estimate
 
 This repo is organized as follows:
 
@@ -18,7 +18,7 @@ This repo is organized as follows:
 └── train_age.py
 ```
 
-##Requirements
+## Requirements
 
 1.pytorch >=0.4
 
@@ -33,7 +33,7 @@ This repo is organized as follows:
 - AFAD: https://github.com/afad-dataset/tarball
 - MORPH-2: https://www.faceaginggroup.com/morph/
 
-Download dataset into detest dir,and then use face alignment with face detector and landmark like insight face.
+Download dataset into dataset dir,and then use face alignment with face detector and landmark like insight face.
 
 ## Benchmark
 
