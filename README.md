@@ -33,7 +33,7 @@ This repo is organized as follows:
 - AFAD: https://github.com/afad-dataset/tarball
 - MORPH-2: https://www.faceaginggroup.com/morph/
 
-Download dataset into dataset dir,and then use face alignment with face detector and landmark like insight face.
+Download dataset into dataset dir,and then use face detector and landmark do face alignment like [insightface](https://github.com/deepinsight/insightface).
 
 ## Benchmark
 
